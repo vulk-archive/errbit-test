@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    airbrake (4.1.0)
+      builder
+      multi_json
+    builder (3.2.2)
+    dotenv (1.0.2)
+    multi_json (1.10.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  airbrake
+  dotenv
